@@ -1,0 +1,4 @@
+dist/
+node_modules/
+.histtory/
+webpack.config.js
